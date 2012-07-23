@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "NLP: File Word Stats",
+        "command": "file_word_stats"
+    },
+    {
+        "caption": "NLP: Selection Word Stats",
+        "command": "selection_word_stats"
+    }
+]
